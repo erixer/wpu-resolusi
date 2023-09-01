@@ -2,3 +2,4 @@ WPU Resolusi
 
 - saya ingin menjadi software development
 - saya ingin membuat start-up sendiri
+- membuat bahasa pemrograman sendiri
